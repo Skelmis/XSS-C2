@@ -1,0 +1,1 @@
+This comes directly from https://redteamzone.com/OffensiveXSS4/ just so I can check the plausibility of this before I spend too much time on it.

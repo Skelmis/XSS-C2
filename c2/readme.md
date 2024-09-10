@@ -1,0 +1,1 @@
+`polling.js` is a simplistic take on this, simply polling every so often for commands
